@@ -1,0 +1,20 @@
+{
+  "name": "unit3",
+  "version": "1.0.0",
+  "description": "Project 'unit3' was created for ...",
+  "main": "index.js",
+  "keywords": [],
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorZabavskyi/unit3.git"
+  },
+  "author": "OZZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorZabavskyi/unit3/issues"
+  },
+  "homepage": "https://github.com/IgorZabavskyi/unit3#readme"
+}
